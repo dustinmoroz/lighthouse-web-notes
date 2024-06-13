@@ -12,3 +12,29 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 ```
+
+
+## Mentor Notes 
+
+
+_From: (Pedro A. Gonzalez)_
+
+### Important things to know!!!
+
+
+- L.S.D. Logic / Syntax / Data
+
+There are 2 different data types
+
+  - **Primitive:** These data types never change (strings, booleans, etc)
+
+  - **Non-primitave (Mutable):** Some aspects may change, but does not change the entire body of data. For example:
+
+  _A car owner buys a car. The car is black, but the owner wants it to be red. The shop will paint the car red, but the car stays the same. The red colour, is a mutable data type._
+
+---
+Looping within objects
+
+---
+
+Callbacks and functions
